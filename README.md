@@ -17,7 +17,7 @@ This application allows users to manage a Pokémon database, including creating,
     ```
 2. Navigate to the project directory:
     ```bash
-    cd your-repository
+    cd pokemons-php
     ```
 3. Set up the MySQL database using the `database.sql` file.
 4. Configure the `config.php` file with your database credentials.
